@@ -2,7 +2,7 @@
 Streamlining Power BI model development with automated error detection, DAX measure formatting, and simplified documentation, ensuring top-notch quality and adherence to best practices in enterprises.
 
 
-# Download latest version
+# Download latest version (beta release)
 URL - [CertyFAST Setup v1.0.0](https://github.com/maqsoftware/CertyFAST/releases/download/v1.0.0/CertyFAST.Setup.1.0.0.exe)
 
 # Generate trial license
@@ -18,6 +18,14 @@ URL - [https://license.maqsoftware.com](https://license.maqsoftware.com)
 - **Export**: Export all information related to semantic model and report visuals in preferred format – Excel or PDF.
 
 # Installation Notes
+1. Supported OS - Windows
+2. Unverified Publisher Warning
+    1. We are working to add Extended Validation (EV) code signing certificate to the software, ensuring that it is recoginised as software published by valid/legal business.
+    2. Till we add EV certificate, users might receive warning related to unverified publisher during installation as shown in the image below:
+
+         ![image](https://github.com/maqsoftware/CertyFAST/assets/34050132/2c7f799b-463a-4324-aa1f-a8009ab97aae)
+
+    3. If you receive the warning, click on run anyway to proceed ahead and install the software in your machine.
 
 
 # Contact Us
