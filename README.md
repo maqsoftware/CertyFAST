@@ -20,7 +20,7 @@ URL - [https://license.maqsoftware.com](https://license.maqsoftware.com)
 # Installation Notes
 1. Supported OS - Windows
 2. Unknown Publisher Warning
-    1. We are working to add Extended Validation (EV) code signing certificate to the software, ensuring that it is recoginised as software published by valid/legal business.
+    1. To recognize this as software published by valid/legal entity, we are working on adding code signing certificate.
     2. Till we add EV certificate, users might receive warning related to unknown publisher during installation as shown in the image below:
 
          ![image](https://github.com/maqsoftware/CertyFAST/assets/34050132/2c7f799b-463a-4324-aa1f-a8009ab97aae)
