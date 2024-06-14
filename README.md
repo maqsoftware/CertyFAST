@@ -27,14 +27,6 @@ CertyFAST empowers you to go beyond surface-level analysis in your Power BI repo
 By leveraging these features, CertyFAST transforms your Power BI analysis, helping you create high-quality reports that are informative, efficient, and user-friendly.
 
 
-# Key Features
-
-- **Insights**: Automatically checks how well report follows the organization standards and find gaps that affect report size, performance, or usability for end users.
-- **Lineage**: Find out how any field depends on other parts of the semantic model and report visuals to understand the impact across the report.​
-- **Alignment**: Showcases visual alignment problems in the report that affect user experience.​
-- **Documentation**: Detailed documentation of semantic model and report visuals, helping developers to create knowledge documents consistently and easily.​
-- **Export**: Export all information related to semantic model and report visuals in preferred format – Excel or PDF.
-
 # Installing CertyFAST for Power BI Analysis
 CertyFAST empowers you to analyze your Power BI reports with advanced features. Here's how to get started:
 
