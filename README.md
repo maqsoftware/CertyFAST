@@ -3,8 +3,8 @@ Streamlining Power BI model development with automated error detection, DAX meas
 
 
 # Download latest version (beta release)
-- Build - [CertyFAST Setup v1.0.1](https://github.com/maqsoftware/CertyFAST/releases/download/v1.0.1/CertyFAST.Setup.1.0.1.exe)
-- Change Log - [v1.0.1](https://github.com/maqsoftware/CertyFAST/releases/tag/v1.0.1)
+- Build - [CertyFAST Setup v1.0.2](https://github.com/maqsoftware/CertyFAST/releases/download/v1.0.2/CertyFAST.Setup.1.0.2.exe)
+- Change Log - [v1.0.2](https://github.com/maqsoftware/CertyFAST/releases/tag/v1.0.2)
 
 
 # Generate trial license
