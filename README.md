@@ -66,5 +66,5 @@ By following these steps, you'll be well on your way to extracting valuable insi
 
 
 # Contact Us
-Email: [certyfastlicense@maqsoftware.com](mailto:certyfastlicense@maqsoftware.com)
+Email: [CertyFAST@maqsoftware.com](mailto:certyfast@maqsoftware.com)
 
